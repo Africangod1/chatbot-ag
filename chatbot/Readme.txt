@@ -1,0 +1,1 @@
+Create a database in phpmyadmin and call it bot then import the datbase called chatbot in it and you can run the project
